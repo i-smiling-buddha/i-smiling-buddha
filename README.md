@@ -51,8 +51,10 @@ Bharat-first platforms. Built with care, never sold out.
 | [**DesiAffiliates**](https://desiaffiliates.com/) | Trusted affiliate and referral programmes for Indians. |
 | [**DesiTasks**](https://desitasks.com/) | Microtask and freelancing platforms that work for Indians. |
 | [**DesiEditor**](https://desieditor.in/) | A free, privacy-focused online file editing tool. |
-| [**DesiWish**](https://desiwish.in/) | Personal greetings for Indian occasions, ready to share on WhatsApp. |
-| [**More platforms**](https://desitechnology.com/platforms.html) | Money calculators, an Indian calendar and more. |
+| [**DesiCalculator**](https://desicalculator.in/) | Free, simple Indian money calculators: SIP, EMI, PPF, FD, RD, income tax, salary, GST and more. |
+| [**DesiDay**](https://desiday.in/) | An India-first calendar with Saka dates, verified government holidays, sunrise and sunset, and a private planner. |
+| [**DesiRuler**](https://desiruler.com/) | A real-size online ruler for any screen, with protractor, length converter, printable ruler and Indian size tools. |
+| [**More platforms**](https://desitechnology.com/platforms.html) | The full list of DESITechnology platforms. |
 
 ## 🌱 What I stand for
 
