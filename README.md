@@ -41,7 +41,7 @@
   <img src="./process.svg" alt="How I build: notice a real problem, build the smallest tool, verify it, share it free." width="100%">
 </p>
 
-## 🇮🇳 The DESITechnology family
+## 🌏 The DESITechnology family
 
 Bharat-first platforms. Built with care, never sold out.
 
