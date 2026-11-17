@@ -27,12 +27,23 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/i-smiling-buddha/ppt-animation-skill"><img src="./card-ppt.svg" alt="PPT Animation: your agent writes the script, records the narration and renders an animated explainer video." width="49%"></a>
+  <a href="https://github.com/i-smiling-buddha/reflection-skill"><img src="./card-reflection.svg" alt="Reflection: study any app, website or game from the outside and build a better version under your own brand." width="49%"></a>
+</p>
+
+<p align="center">
   <img alt="Smart Model Router stars" src="https://img.shields.io/github/stars/i-smiling-buddha/smart-model-router-skill?style=flat-square&label=SMR%20stars&color=F2994A">
   <img alt="Smart Model Router license" src="https://img.shields.io/github/license/i-smiling-buddha/smart-model-router-skill?style=flat-square&color=5B3FE0">
   &nbsp;&nbsp;
   <img alt="AI Image Recognition stars" src="https://img.shields.io/github/stars/i-smiling-buddha/ai-image-recognition-skill?style=flat-square&label=Image%20skill%20stars&color=F2994A">
   <img alt="AI Image Recognition forks" src="https://img.shields.io/github/forks/i-smiling-buddha/ai-image-recognition-skill?style=flat-square&label=forks&color=5B3FE0">
   <img alt="AI Image Recognition open issues" src="https://img.shields.io/github/issues/i-smiling-buddha/ai-image-recognition-skill?style=flat-square&label=open%20issues&color=5B3FE0">
+  <br>
+  <img alt="PPT Animation stars" src="https://img.shields.io/github/stars/i-smiling-buddha/ppt-animation-skill?style=flat-square&label=PPT%20Animation%20stars&color=F2994A">
+  <img alt="PPT Animation license" src="https://img.shields.io/github/license/i-smiling-buddha/ppt-animation-skill?style=flat-square&color=5B3FE0">
+  &nbsp;&nbsp;
+  <img alt="Reflection stars" src="https://img.shields.io/github/stars/i-smiling-buddha/reflection-skill?style=flat-square&label=Reflection%20stars&color=F2994A">
+  <img alt="Reflection license" src="https://img.shields.io/github/license/i-smiling-buddha/reflection-skill?style=flat-square&color=5B3FE0">
 </p>
 
 ## 🧭 How I build
@@ -69,11 +80,13 @@ Bharat-first platforms. Built with care, never sold out.
 
 ## 🤝 Contributions welcome
 
-Both skills have issues labelled **good first issue**. Pick one, comment on it, and I'll assign it to you.
+Every skill is open to issues and pull requests. Smart Model Router and AI Image Recognition have issues labelled **good first issue**: pick one, comment on it, and I'll assign it to you.
 
 <p>
   <a href="https://github.com/i-smiling-buddha/ai-image-recognition-skill/issues"><img alt="Issues in AI Image Recognition Skill" src="https://img.shields.io/badge/Issues-AI%20Image%20Recognition%20Skill-F2994A?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/i-smiling-buddha/smart-model-router-skill/issues"><img alt="Issues in Smart Model Router" src="https://img.shields.io/badge/Issues-Smart%20Model%20Router-F2994A?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/i-smiling-buddha/ppt-animation-skill/issues"><img alt="Issues in PPT Animation Skill" src="https://img.shields.io/badge/Issues-PPT%20Animation%20Skill-F2994A?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/i-smiling-buddha/reflection-skill/issues"><img alt="Issues in Reflection Skill" src="https://img.shields.io/badge/Issues-Reflection%20Skill-F2994A?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## 🛠 Tools I work with
@@ -85,6 +98,7 @@ Both skills have issues labelled **good first issue**. Pick one, comment on it, 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Agent Skills" src="https://img.shields.io/badge/Agent%20Skills-5B3FE0?style=for-the-badge">
   <img alt="MCP" src="https://img.shields.io/badge/MCP-5B3FE0?style=for-the-badge">
+  <img alt="Gemini CLI" src="https://img.shields.io/badge/Gemini%20CLI-1A73E8?style=for-the-badge">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
